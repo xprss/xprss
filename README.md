@@ -1,5 +1,5 @@
 <h1 align="center" style="">
-  Hey there, it's <a href="https://github.com/lifeofvins/" target="blank">Vivi</a>!
+  Hey there, it's <a href="https://github.com/lifeofvins/" target="blank">xprss</a>!
 </h1>
 <h3 align="left">MSc Student of Cybersecurity Computer Engineer @ <a href="https://www.polito.it">Politecnico di Torino</a></h3>
 
