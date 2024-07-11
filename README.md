@@ -11,4 +11,4 @@
 </a>
 
 - 📫 LinkedIn: <a href="https://www.linkedin.com/in/vincenzo-sagristano-934874181/" target="blank">Vincenzo Sagristano</a>
-- 😄 Pronouns: he/him
+- 🏳️‍🌈 Proud queer ally
