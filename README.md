@@ -1,8 +1,8 @@
 <h1 align="center" style="">
-  yo, it's <a href="https://github.com/lifeofvins/" target="blank">xprss</a> :)
+  yo, it's <a href="https://github.com/xprss/" target="blank">xprss</a> :)
 </h1>
-<h3 align="left">Graduated MSc Student of Cybersecurity Computer Engineer @ <a href="https://www.polito.it">Politecnico di Torino</a>.</h3>
-<h3 align="left">Full-stack Software Engineer.</h3>
+<h4 align="left">Graduated MSc Student of Cybersecurity Computer Engineer @ <a href="https://www.polito.it">Politecnico di Torino</a>.</h3>
+<h4 align="left">Full-stack Software Engineer.</h3>
 
 <br>
 
