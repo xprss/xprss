@@ -9,6 +9,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+<br/>
 
 - 📫 LinkedIn: <a href="https://www.linkedin.com/in/vincenzo-sagristano-934874181/" target="blank">Vincenzo Sagristano</a>
 - 🏳️‍🌈 Proud queer ally
