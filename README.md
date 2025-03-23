@@ -10,7 +10,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<div style="display: flex; flex-direction: column; justify-content: left; align-items: left">
+<div style="display: flex; flex-direction: column; justify-content: left; align-items: left; margin-top: 0.5rem;">
 <div>
 - 📫 LinkedIn: <a href="https://www.linkedin.com/in/vincenzo-sagristano-934874181/" target="blank">Vincenzo Sagristano</a>
 </div>
