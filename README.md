@@ -7,7 +7,7 @@
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.gifer.com/5TMy.gif">
+  <img align="right" top="500" height="auto" width="400" alt="GIF" src="https://i.gifer.com/5TMy.gif">
 </a>
 
 <div style="display: flex; flex-direction: column; justify-content: left; align-items: left; margin-top: 0.5rem;">
