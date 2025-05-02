@@ -22,7 +22,9 @@
         🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a>
       </div>
     </div>
-    <div>
+    
+</div>
+<div>
       <h3 align="left">Coding languages</h3>
       <p align="left">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> 
@@ -66,4 +68,3 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="javascript" width="50" height="50"/> 
       </p>
     </div>
-</div>
