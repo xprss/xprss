@@ -5,7 +5,7 @@
 <div style="display: flex; flex-direction: row;">
   <div>
     <a target="_blank" align="center">
-      <img align="left" top="500" height="auto" width="100" alt="GIF" src="https://i.gifer.com/5TMy.gif">
+      <img align="left" top="500" height="auto" width="150" alt="GIF" src="https://i.gifer.com/5TMy.gif">
     </a>
   </div>
   <div>
