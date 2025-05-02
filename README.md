@@ -18,6 +18,9 @@
       <div>
         🏳️‍🌈 Proud queer ally
       </div>
+      <div>
+        🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a>
+      </div>
     </div>
     <div>
       <h3 align="left">Coding languages</h3>
