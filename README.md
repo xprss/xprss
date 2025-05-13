@@ -4,11 +4,6 @@
 <br>
 <div style="display: flex; flex-direction: row;">
   <div>
-    <a target="_blank" align="center">
-      <img align="left" top="500" height="auto" width="100" alt="GIF" src="https://i.gifer.com/5TMy.gif">
-    </a>
-  </div>
-  <div>
     <div style="display: flex; flex-direction: column; justify-content: left; align-items: left; margin-top: 0.5rem;">
       <h4 align="left">Graduated MSc Student of Cybersecurity Computer Engineer @ <a href="https://www.polito.it">Politecnico di Torino</a>.</h4>
       <h4 align="left">Full-stack Software Engineer.</h4>
