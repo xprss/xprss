@@ -31,7 +31,8 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="java" width="50" height="50"/> 
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="java" width="50" height="50"/> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="java" width="50" height="50"/>  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="java" width="50" height="50"/> 
       </p>
     </div>
     <div>
