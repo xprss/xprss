@@ -32,7 +32,6 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="java" width="50" height="50"/>  
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="java" width="50" height="50"/> 
       </p>
     </div>
     <div>
@@ -45,6 +44,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Light.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" alt="java" width="50" height="50"/> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="java" width="50" height="50"/> 
       </p>
     </div>
     <div>
