@@ -8,7 +8,7 @@
       <h4 align="left">Graduated MSc Student of Cybersecurity Computer Engineer @ <a href="https://www.polito.it">Politecnico di Torino</a>.</h4>
       <h4 align="left">Full-stack Software Engineer.</h4>
       <div>
-        📫 LinkedIn: <a href="https://www.linkedin.com/in/vincenzo-sagristano-934874181/" target="blank">Vincenzo Sagristano</a>
+        📫 LinkedIn: <a href="https://www.linkedin.com/in/sagristano/" target="blank">Vincenzo Sagristano</a>
       </div>
       <div>
         🏳️‍🌈 Proud queer ally
