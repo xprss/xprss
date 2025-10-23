@@ -7,17 +7,12 @@
     <div style="display: flex; flex-direction: column; justify-content: left; align-items: left; margin-top: 0.5rem;">
       <h4 align="left">Graduated MSc Student of Cybersecurity Computer Engineer @ <a href="https://www.polito.it">Politecnico di Torino</a>.</h4>
       <h4 align="left">Full-stack Software Engineer.</h4>
-      <div>
-        📫 LinkedIn: <a href="https://www.linkedin.com/in/sagristano/" target="blank">Vincenzo Sagristano</a>
-      </div>
-      <div>
-        🏳️‍🌈 Proud queer ally
-      </div>
-      <div>
-        🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a>
-      </div>
+      <ul>
+        <li>📫 LinkedIn: <a href="https://www.linkedin.com/in/sagristano/" target="blank">Vincenzo Sagristano</a></li>
+        <li>🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a></li>
+        <li>🏳️‍🌈 Proud queer ally</li>
+      </ul>
     </div>
-    
 </div>
 <div>
       <h3 align="left">Coding languages</h3>
@@ -66,3 +61,4 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="javascript" width="50" height="50"/> 
       </p>
     </div>
+</div>
