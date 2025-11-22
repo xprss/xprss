@@ -9,7 +9,7 @@
       <h4 align="left">Full-stack Software Engineer.</h4>
       <ul>
         <li>📫 LinkedIn: <a href="https://www.linkedin.com/in/sagristano/" target="blank">Vincenzo Sagristano</a></li>
-        <li>🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a></li>
+        <li>🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a> and on <a href="https://github.com/xprss/certericette">certericette</a></li>
         <li>🏳️‍🌈 Proud queer ally</li>
       </ul>
     </div>
