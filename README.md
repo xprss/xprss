@@ -1,19 +1,7 @@
 <h1 align="center" style="">
-  yo, it's <a href="https://github.com/xprss/" target="blank">xprss</a> :)
+  yo, it's <code>xprss</code>
 </h1>
 <br>
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80033167" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80033167&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @xprss" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80033167&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <div style="display: flex; flex-direction: row;">
   <div>
     <div style="display: flex; flex-direction: column; justify-content: left; align-items: left; margin-top: 0.5rem;">
@@ -21,11 +9,17 @@
       <h4 align="left">Full-stack Software Engineer.</h4>
       <ul>
         <li>📫 LinkedIn: <a href="https://www.linkedin.com/in/sagristano/" target="blank">Vincenzo Sagristano</a></li>
-        <li>🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a> and on <a href="https://github.com/xprss/certericette">certericette</a></li>
+        <li>🎯 Currently working on <a href="https://www.github.com/xprss/vividi">Vividi</a> and on <a href="https://github.com/xprss/recipe-scaler">recipe-scaler</a></li>
         <li>🏳️‍🌈 Proud queer ally</li>
       </ul>
     </div>
 </div>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80033167" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80033167&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @xprss" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80033167&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 <div>
       <h3 align="left">Coding languages</h3>
       <p align="left">
