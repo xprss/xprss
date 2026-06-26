@@ -51,7 +51,7 @@
       </p>
     </div>
     <div>
-      <h3 align="left">Development tools</h3>
+      <h3 align="left">DevOps</h3>
       <p align="left">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="git" width="50" height="50"/> 
@@ -59,6 +59,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" alt="javascript" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" alt="javascript" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="javascript" width="50" height="50"/> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" alt="javascript" width="50" height="50"/> 
       </p>
     </div>
 </div>
