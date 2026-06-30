@@ -60,6 +60,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" alt="javascript" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="javascript" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" alt="javascript" width="50" height="50"/> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="javascript" width="50" height="50"/> 
       </p>
     </div>
 </div>
