@@ -40,7 +40,8 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Light.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" alt="java" width="50" height="50"/> 
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="java" width="50" height="50"/> 
-        <img src="https://github.com/syvixor/skills-icons/blob/main/icons/celery.svg" alt="java" width="50" height="50"/> 
+        <img src="https://github.com/syvixor/skills-icons/blob/main/icons/celery.svg" alt="java" width="50" height="50"/>  
+        <img src="https://github.com/syvixor/skills-icons/blob/main/icons/quarkus.svg" alt="java" width="50" height="50"/> 
       </p>
     </div>
     <div>
