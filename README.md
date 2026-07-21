@@ -54,31 +54,3 @@ Proud queer ally. 🏳️‍🌈
   <img src="https://skillicons.dev/icons?i=git,github,docker,npm,maven,linux,rabbitmq,azure" alt="Git, GitHub, Docker, npm, Maven, Linux, RabbitMQ, Azure" />
 </p>
 
----
-
-## Engineering Interests
-
-- Secure-by-design web applications
-- Full-stack product development
-- API design and backend service architecture
-- Automation, observability, and deployment workflows
-- Clean interfaces between people, processes, and software
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xprss&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="xprss GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xprss&layout=compact&theme=transparent&hide_border=true" alt="xprss top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build things that are useful, robust, and a little bit sharper than expected.
-
-</div>
