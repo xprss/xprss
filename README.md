@@ -20,6 +20,7 @@ I like building systems that are clear to use, reliable in production, and maint
 Currently working on:
 
 - [Vividi](https://www.github.com/xprss/vividi)
+- [huff](https://github.com/xprss/huff)
 - [recipe-scaler](https://github.com/xprss/recipe-scaler)
 
 Proud queer ally. 🏳️‍🌈
