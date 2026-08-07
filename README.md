@@ -2,7 +2,7 @@
 
 # yo, it's `xprss`
 
-### Cybersecurity MSc graduate · Full-stack software engineer · Builder of practical software
+### Cybersecurity MSc graduate · Full-stack software engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincenzo%20Sagristano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagristano/)
 [![GitHub](https://img.shields.io/badge/GitHub-xprss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xprss)
@@ -15,7 +15,7 @@
 
 I'm **Vincenzo Sagristano**, a full-stack software engineer and MSc graduate in Cybersecurity Engineering from [Politecnico di Torino](https://www.polito.it).
 
-I like building systems that are clear to use, reliable in production, and maintainable after the first release. My work sits at the intersection of web engineering, backend architecture, security-minded design, and developer experience.
+I like building systems that are clear to use, reliable in production, and maintainable after the first release. My work sits at the intersection of web engineering, backend architecture, security-minded design, and developer experience. Deeply interested in cybersecurity and operative systems.
 
 Currently working on:
 
