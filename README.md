@@ -52,6 +52,6 @@ Proud queer ally. 🏳️‍🌈
 ### DevOps and Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,maven,linux,rabbitmq,azure" alt="Git, GitHub, Docker, npm, Maven, Linux, RabbitMQ, Azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,maven,linux,rabbitmq,azure,jenkins" alt="Git, GitHub, Docker, npm, Maven, Linux, RabbitMQ, Azure, Jenkins" />
 </p>
 
