@@ -17,11 +17,7 @@ I'm **Vincenzo Sagristano**, a full-stack software engineer and MSc graduate in 
 
 I like building systems that are clear to use, reliable in production, and maintainable after the first release. My work sits at the intersection of web engineering, backend architecture, security-minded design, and developer experience. Deeply interested in cybersecurity and operative systems.
 
-Currently working on:
-
-- [Vividi](https://www.github.com/xprss/vividi)
-- [huff](https://github.com/xprss/huff)
-- [recipe-scaler](https://github.com/xprss/recipe-scaler)
+Currently working on [huff](https://github.com/xprss/huff).
 
 Proud queer ally. 🏳️‍🌈
 
